@@ -1,26 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: adadaptedinc # Your GitHub username
+repo: upptime-production # Your Github repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: AdAdapted Direct
+    url: https://direct.adadapted.com
+  - name: AdAdapted Circulars
+    url: https://circulars.adadapted.com
+  - name: AdAdapted Direct Reporting API
+    url: $SECRET_SITE_1
+  - name: AdAdapted Direct Service API
+    url: $SECRET_SITE_2
+  - name: Circular API
+    url: $SECRET_SITE_3
+  - name: Telemetry API
+    url: $SECRET_SITE_4
 
+notifications:
+  - type: slack
+    channel: $SLACK_CHANNEL
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.adadapted.com
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://secureservercdn.net/45.40.148.147/cnp.503.myftpupload.com/wp-content/uploads/2020/05/cropped-AdAdapted-Logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "AdAdapted Direct Services Status"
+  introMessage: This status page provides realtime status updates for AdAdapted Direct API's and applications
   navbar:
     - title: Status
       href: /
