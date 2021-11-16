@@ -4,107 +4,119 @@
     "url": "https://direct.adadapted.com",
     "icon": "https://favicons.githubusercontent.com/direct.adadapted.com",
     "slug": "ad-adapted-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 71,
-    "timeWeek": 117,
-    "timeMonth": 118,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 119,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "AdAdapted Circulars",
     "url": "https://circulars.adadapted.com",
     "icon": "https://favicons.githubusercontent.com/circulars.adadapted.com",
     "slug": "ad-adapted-circulars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 108,
-    "timeWeek": 128,
-    "timeMonth": 117,
+    "timeDay": 130,
+    "timeWeek": 131,
+    "timeMonth": 118,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "AdAdapted Direct Reporting API",
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 75,
-    "timeWeek": 142,
-    "timeMonth": 132,
+    "timeDay": 115,
+    "timeWeek": 143,
+    "timeMonth": 133,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "AdAdapted Direct Service API",
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 51,
-    "timeDay": 48,
-    "timeWeek": 53,
+    "timeDay": 39,
+    "timeWeek": 50,
     "timeMonth": 54,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Circular API",
     "url": "$SECRET_SITE_3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "circular-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 46,
-    "timeWeek": 51,
-    "timeMonth": 66,
-    "timeYear": 53,
-    "dailyMinutesDown": {}
+    "time": 52,
+    "timeDay": 37,
+    "timeWeek": 48,
+    "timeMonth": 65,
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 90,
-    "timeWeek": 125,
-    "timeMonth": 115,
-    "timeYear": 100,
-    "dailyMinutesDown": {}
+    "time": 101,
+    "timeDay": 119,
+    "timeWeek": 128,
+    "timeMonth": 116,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   }
 ]
