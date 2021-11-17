@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/direct.adadapted.com",
     "slug": "ad-adapted-direct",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 108,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 113,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 114,
+    "timeDay": 187,
+    "timeWeek": 141,
+    "timeMonth": 126,
+    "timeYear": 114,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Circulars",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/circulars.adadapted.com",
     "slug": "ad-adapted-circulars",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 99,
-    "timeWeek": 121,
-    "timeMonth": 116,
+    "timeDay": 108,
+    "timeWeek": 122,
+    "timeMonth": 118,
     "timeYear": 120,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 114,
-    "timeWeek": 140,
+    "timeDay": 133,
+    "timeWeek": 138,
     "timeMonth": 132,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-service-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 50,
-    "timeDay": 42,
-    "timeWeek": 50,
-    "timeMonth": 53,
-    "timeYear": 50,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 51,
+    "timeDay": 49,
+    "timeWeek": 53,
+    "timeMonth": 54,
+    "timeYear": 51,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Circular API",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "circular-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 75,
-    "timeWeek": 59,
-    "timeMonth": 67,
+    "timeDay": 83,
+    "timeWeek": 62,
+    "timeMonth": 68,
     "timeYear": 53,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telemetry API",
@@ -105,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 103,
-    "timeWeek": 122,
+    "timeDay": 107,
+    "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2021-11-16": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
