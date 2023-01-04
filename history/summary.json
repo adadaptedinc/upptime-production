@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 129,
-    "timeWeek": 101,
-    "timeMonth": 120,
+    "timeDay": 96,
+    "timeWeek": 99,
+    "timeMonth": 118,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2022-03-11": 34,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 135,
-    "timeWeek": 88,
-    "timeMonth": 100,
+    "timeDay": 94,
+    "timeWeek": 89,
+    "timeMonth": 97,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2022-03-11": 33
@@ -47,17 +47,16 @@
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 150,
-    "timeWeek": 127,
-    "timeMonth": 118,
+    "timeDay": 114,
+    "timeWeek": 123,
+    "timeMonth": 115,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-01-03": 7,
       "2022-11-05": 124,
       "2022-03-11": 33
     }
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 92,
-    "timeDay": 46,
+    "timeDay": 44,
     "timeWeek": 53,
-    "timeMonth": 49,
+    "timeMonth": 50,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-03-11": 32
@@ -94,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 55,
-    "timeDay": 43,
-    "timeWeek": 48,
-    "timeMonth": 45,
+    "timeDay": 42,
+    "timeWeek": 47,
+    "timeMonth": 46,
     "timeYear": 55,
     "dailyMinutesDown": {
       "2022-03-11": 32
@@ -114,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 140,
-    "timeDay": 138,
-    "timeWeek": 252,
-    "timeMonth": 320,
+    "timeDay": 71,
+    "timeWeek": 136,
+    "timeMonth": 317,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-09-23": 37,
