@@ -4,6 +4,8 @@ repo: upptime-production # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Ad Service API
+    url: $SECRET_SITE_5
   - name: AdAdapted Direct
     url: https://direct.adadapted.com
   - name: AdAdapted Circulars
@@ -26,9 +28,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://secureservercdn.net/45.40.148.147/cnp.503.myftpupload.com/wp-content/uploads/2020/05/cropped-AdAdapted-Logo.png
-  name: Upptime
-  introTitle: "AdAdapted Direct Services Status"
-  introMessage: This status page provides realtime status updates for AdAdapted Direct API's and applications
+  name: AdAdapted
+  introTitle: "AdAdapted Production Status"
+  introMessage: This status page provides realtime status updates for AdAdapted API's and services
   navbar:
     - title: Status
       href: /
