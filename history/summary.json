@@ -4,18 +4,20 @@
     "url": "$SECRET_SITE_5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 109,
-    "timeWeek": 110,
-    "timeMonth": 113,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "time": 223,
+    "timeDay": 4607,
+    "timeWeek": 1235,
+    "timeMonth": 394,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   },
   {
     "name": "AdAdapted Direct",
