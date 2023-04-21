@@ -15,7 +15,9 @@
     "timeWeek": 113,
     "timeMonth": 477,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-21": 0
+    }
   },
   {
     "name": "AdAdapted Direct",
