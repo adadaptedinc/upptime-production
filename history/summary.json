@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-service-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 143,
-    "timeWeek": 113,
-    "timeMonth": 477,
-    "timeYear": 243,
+    "uptime": "99.98%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 240,
+    "timeDay": 117,
+    "timeWeek": 111,
+    "timeMonth": 458,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-21": 23
     }
   },
   {
