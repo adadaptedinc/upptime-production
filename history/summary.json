@@ -123,19 +123,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 97,
+    "timeDay": 101,
     "timeWeek": 103,
     "timeMonth": 102,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-08-08": 0
+      "2024-08-08": 24
     }
   }
 ]
