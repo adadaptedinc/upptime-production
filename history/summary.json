@@ -67,18 +67,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
+    "time": 158,
     "timeDay": 99,
     "timeWeek": 128,
     "timeMonth": 137,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2024-09-21": 0,
       "2023-12-05": 15
     }
   },
