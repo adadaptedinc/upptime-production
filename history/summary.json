@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 264,
-    "timeDay": 157,
+    "timeDay": 87,
     "timeWeek": 112,
-    "timeMonth": 130,
+    "timeMonth": 128,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2024-08-05": 30,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 129,
-    "timeWeek": 122,
+    "timeDay": 171,
+    "timeWeek": 133,
     "timeMonth": 127,
-    "timeYear": 132,
+    "timeYear": 133,
     "dailyMinutesDown": {
       "2023-12-05": 16
     }
@@ -55,9 +55,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 144,
-    "timeWeek": 82,
+    "time": 96,
+    "timeDay": 88,
+    "timeWeek": 88,
     "timeMonth": 108,
     "timeYear": 95,
     "dailyMinutesDown": {}
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 167,
-    "timeWeek": 177,
-    "timeMonth": 147,
+    "timeDay": 105,
+    "timeWeek": 178,
+    "timeMonth": 146,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-09-21": 62,
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 298,
-    "timeDay": 49,
+    "timeDay": 58,
     "timeWeek": 50,
-    "timeMonth": 860,
+    "timeMonth": 861,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-08-13": 139
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 48,
+    "timeDay": 51,
     "timeWeek": 48,
-    "timeMonth": 45,
+    "timeMonth": 46,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 161,
-    "timeWeek": 139,
-    "timeMonth": 380,
-    "timeYear": 183,
+    "timeDay": 125,
+    "timeWeek": 138,
+    "timeMonth": 381,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-08-08": 24
     }
