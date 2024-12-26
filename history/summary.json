@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 156,
-    "timeDay": 146,
-    "timeWeek": 135,
-    "timeMonth": 132,
+    "timeDay": 102,
+    "timeWeek": 137,
+    "timeMonth": 130,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-08-05": 30,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 122,
-    "timeWeek": 131,
-    "timeMonth": 138,
+    "timeDay": 83,
+    "timeWeek": 134,
+    "timeMonth": 135,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 117,
-    "timeWeek": 91,
-    "timeMonth": 109,
-    "timeYear": 108,
+    "timeDay": 148,
+    "timeWeek": 104,
+    "timeMonth": 110,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 96,
-    "timeWeek": 160,
-    "timeMonth": 130,
+    "timeDay": 161,
+    "timeWeek": 159,
+    "timeMonth": 131,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-09-21": 62
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 376,
-    "timeDay": 25,
-    "timeWeek": 41,
-    "timeMonth": 1341,
-    "timeYear": 334,
+    "time": 385,
+    "timeDay": 4160,
+    "timeWeek": 629,
+    "timeMonth": 1479,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2024-08-13": 139
     }
@@ -110,7 +110,7 @@
     "uptimeYear": "100.00%",
     "time": 90,
     "timeDay": 27,
-    "timeWeek": 44,
+    "timeWeek": 41,
     "timeMonth": 42,
     "timeYear": 43,
     "dailyMinutesDown": {}
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 71,
-    "timeWeek": 129,
-    "timeMonth": 105,
+    "timeDay": 70,
+    "timeWeek": 114,
+    "timeMonth": 103,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-08-08": 24
