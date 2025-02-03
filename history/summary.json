@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 156,
-    "timeDay": 91,
-    "timeWeek": 131,
-    "timeMonth": 130,
+    "timeDay": 136,
+    "timeWeek": 129,
+    "timeMonth": 129,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2024-08-05": 30,
@@ -34,8 +34,8 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 112,
-    "timeWeek": 108,
-    "timeMonth": 117,
+    "timeWeek": 113,
+    "timeMonth": 116,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 150,
-    "timeWeek": 118,
-    "timeMonth": 111,
+    "timeDay": 61,
+    "timeWeek": 112,
+    "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 146,
-    "timeWeek": 131,
+    "timeDay": 155,
+    "timeWeek": 135,
     "timeMonth": 119,
-    "timeYear": 120,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2024-09-21": 62
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
-    "timeDay": 40,
-    "timeWeek": 48,
-    "timeMonth": 50,
+    "timeDay": 30,
+    "timeWeek": 44,
+    "timeMonth": 49,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-13": 139
@@ -108,10 +108,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 40,
-    "timeWeek": 46,
-    "timeMonth": 47,
+    "time": 58,
+    "timeDay": 28,
+    "timeWeek": 43,
+    "timeMonth": 46,
     "timeYear": 43,
     "dailyMinutesDown": {}
   },
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 79,
-    "timeWeek": 120,
-    "timeMonth": 114,
+    "timeDay": 77,
+    "timeWeek": 113,
+    "timeMonth": 113,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-08-08": 24
