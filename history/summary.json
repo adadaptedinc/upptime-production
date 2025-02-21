@@ -44,28 +44,30 @@
     "url": "https://circulars.adadapted.com",
     "icon": "https://icons.duckduckgo.com/ip3/circulars.adadapted.com.ico",
     "slug": "ad-adapted-circulars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 73,
     "timeWeek": 93,
     "timeMonth": 105,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 2
+    }
   },
   {
     "name": "AdAdapted Direct Reporting API",
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 118,
@@ -74,6 +76,7 @@
     "timeMonth": 129,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-02-21": 2,
       "2024-09-21": 62
     }
   },
@@ -82,10 +85,10 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
@@ -94,6 +97,7 @@
     "timeMonth": 51,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2025-02-21": 1,
       "2024-08-13": 139
     }
   },
@@ -102,10 +106,10 @@
     "url": "$SECRET_SITE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "circular-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
@@ -113,17 +117,19 @@
     "timeWeek": 43,
     "timeMonth": 49,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 1
+    }
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 155,
@@ -132,6 +138,7 @@
     "timeMonth": 122,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-19": 17,
       "2024-08-08": 24
     }
