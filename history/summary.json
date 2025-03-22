@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 158,
-    "timeDay": 142,
-    "timeWeek": 118,
-    "timeMonth": 130,
-    "timeYear": 150,
+    "timeDay": 153,
+    "timeWeek": 127,
+    "timeMonth": 132,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-08-05": 30,
       "2024-07-06": 183
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 117,
-    "timeWeek": 85,
-    "timeMonth": 97,
-    "timeYear": 136,
+    "timeDay": 63,
+    "timeWeek": 81,
+    "timeMonth": 95,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 60,
-    "timeWeek": 109,
+    "timeDay": 109,
+    "timeWeek": 112,
     "timeMonth": 105,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 165,
-    "timeWeek": 136,
-    "timeMonth": 136,
+    "timeDay": 84,
+    "timeWeek": 128,
+    "timeMonth": 135,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2024-09-21": 62
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
-    "timeDay": 42,
-    "timeWeek": 46,
-    "timeMonth": 48,
+    "timeDay": 30,
+    "timeWeek": 42,
+    "timeMonth": 47,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2024-08-13": 139
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 43,
-    "timeWeek": 44,
-    "timeMonth": 44,
+    "timeDay": 31,
+    "timeWeek": 40,
+    "timeMonth": 43,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -126,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 139,
-    "timeDay": 139,
-    "timeWeek": 131,
-    "timeMonth": 127,
+    "timeDay": 74,
+    "timeWeek": 125,
+    "timeMonth": 125,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-02-19": 17,
