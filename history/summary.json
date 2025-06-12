@@ -28,19 +28,19 @@
     "url": "https://direct.adadapted.com",
     "icon": "https://icons.duckduckgo.com/ip3/direct.adadapted.com.ico",
     "slug": "ad-adapted-direct",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 8564,
-    "timeWeek": 2235,
-    "timeMonth": 653,
-    "timeYear": 189,
+    "time": 190,
+    "timeDay": 10087,
+    "timeWeek": 3446,
+    "timeMonth": 1032,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-06-12": 1
+      "2025-06-12": 11
     }
   },
   {
@@ -50,9 +50,9 @@
     "slug": "ad-adapted-circulars",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 8721,
@@ -60,7 +60,7 @@
     "timeMonth": 656,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 11
     }
   },
   {
