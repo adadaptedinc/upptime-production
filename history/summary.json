@@ -28,36 +28,40 @@
     "url": "https://direct.adadapted.com",
     "icon": "https://icons.duckduckgo.com/ip3/direct.adadapted.com.ico",
     "slug": "ad-adapted-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 82,
-    "timeWeek": 119,
-    "timeMonth": 125,
-    "timeYear": 143,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 8564,
+    "timeWeek": 2235,
+    "timeMonth": 653,
+    "timeYear": 189,
+    "dailyMinutesDown": {
+      "2025-06-12": 1
+    }
   },
   {
     "name": "AdAdapted Circulars",
     "url": "https://circulars.adadapted.com",
     "icon": "https://icons.duckduckgo.com/ip3/circulars.adadapted.com.ico",
     "slug": "ad-adapted-circulars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 147,
-    "timeWeek": 135,
-    "timeMonth": 120,
-    "timeYear": 119,
-    "dailyMinutesDown": {}
+    "time": 144,
+    "timeDay": 8721,
+    "timeWeek": 2280,
+    "timeMonth": 656,
+    "timeYear": 166,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "AdAdapted Direct Reporting API",
