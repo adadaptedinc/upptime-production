@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 144,
-    "timeDay": 87,
-    "timeWeek": 129,
-    "timeMonth": 131,
+    "timeDay": 173,
+    "timeWeek": 138,
+    "timeMonth": 134,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-04": 811,
@@ -30,18 +30,16 @@
     "slug": "ad-adapted-direct",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 9388,
-    "timeWeek": 4336,
-    "timeMonth": 1449,
+    "timeDay": 9385,
+    "timeWeek": 4332,
+    "timeMonth": 1447,
     "timeYear": 268,
-    "dailyMinutesDown": {
-      "2025-06-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Circulars",
@@ -50,17 +48,17 @@
     "slug": "ad-adapted-circulars",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 6750,
-    "timeWeek": 3141,
-    "timeMonth": 1066,
+    "timeDay": 6729,
+    "timeWeek": 3126,
+    "timeMonth": 1063,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-06-12": 26
+      "2025-06-12": 19
     }
   },
   {
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 125,
-    "timeDay": 115,
-    "timeWeek": 191,
-    "timeMonth": 154,
+    "timeDay": 84,
+    "timeWeek": 180,
+    "timeMonth": 151,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2024-09-21": 62
@@ -95,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 276,
-    "timeDay": 50,
-    "timeWeek": 55,
-    "timeMonth": 53,
+    "timeDay": 45,
+    "timeWeek": 54,
+    "timeMonth": 52,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-13": 139
@@ -115,7 +113,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 72,
+    "timeDay": 37,
     "timeWeek": 57,
     "timeMonth": 52,
     "timeYear": 45,
@@ -133,8 +131,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 116,
-    "timeWeek": 123,
+    "timeDay": 158,
+    "timeWeek": 113,
     "timeMonth": 120,
     "timeYear": 136,
     "dailyMinutesDown": {
