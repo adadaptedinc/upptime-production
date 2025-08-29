@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 132,
-    "timeDay": 153,
-    "timeWeek": 140,
+    "timeDay": 146,
+    "timeWeek": 137,
     "timeMonth": 145,
     "timeYear": 135,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 44,
-    "timeWeek": 166,
-    "timeMonth": 148,
+    "timeDay": 117,
+    "timeWeek": 145,
+    "timeMonth": 149,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 116,
-    "timeWeek": 156,
-    "timeMonth": 131,
-    "timeYear": 211,
+    "timeDay": 39,
+    "timeWeek": 153,
+    "timeMonth": 129,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-06-12": 19
     }
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 199,
-    "timeWeek": 165,
-    "timeMonth": 155,
-    "timeYear": 137,
+    "timeDay": 333,
+    "timeWeek": 200,
+    "timeMonth": 160,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-09-21": 62
     }
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 68,
-    "timeWeek": 50,
+    "timeDay": 70,
+    "timeWeek": 55,
     "timeMonth": 56,
     "timeYear": 314,
     "dailyMinutesDown": {}
@@ -109,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 70,
-    "timeWeek": 44,
+    "timeDay": 65,
+    "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 47,
     "dailyMinutesDown": {}
@@ -126,10 +126,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 73,
-    "timeWeek": 109,
-    "timeMonth": 119,
+    "time": 130,
+    "timeDay": 145,
+    "timeWeek": 113,
+    "timeMonth": 121,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-02-19": 17
