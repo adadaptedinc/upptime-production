@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 134,
-    "timeDay": 159,
-    "timeWeek": 152,
-    "timeMonth": 147,
+    "timeDay": 112,
+    "timeWeek": 133,
+    "timeMonth": 146,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2025-05-04": 811,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 138,
-    "timeWeek": 158,
-    "timeMonth": 146,
+    "timeDay": 143,
+    "timeWeek": 146,
+    "timeMonth": 147,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 184,
-    "timeWeek": 133,
-    "timeMonth": 128,
+    "timeDay": 53,
+    "timeWeek": 120,
+    "timeMonth": 123,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-06-12": 19
@@ -71,13 +71,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 164,
-    "timeWeek": 170,
-    "timeMonth": 157,
+    "timeDay": 128,
+    "timeWeek": 156,
+    "timeMonth": 159,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2024-09-21": 62
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -91,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 66,
-    "timeWeek": 49,
+    "timeDay": 62,
+    "timeWeek": 52,
     "timeMonth": 54,
     "timeYear": 247,
     "dailyMinutesDown": {}
@@ -109,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 57,
-    "timeWeek": 47,
+    "timeDay": 49,
+    "timeWeek": 48,
     "timeMonth": 49,
     "timeYear": 48,
     "dailyMinutesDown": {}
@@ -127,8 +125,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 86,
-    "timeWeek": 158,
+    "timeDay": 106,
+    "timeWeek": 155,
     "timeMonth": 130,
     "timeYear": 118,
     "dailyMinutesDown": {
